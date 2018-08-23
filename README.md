@@ -6,8 +6,8 @@ College Portal API Client Library for JavaScript -  https://github.com/college-p
 Just clone this repository, install dependencies and start application:
 
 ```bash
-git clone git@github.com:voronianski/express-api-sample.git
-cd express-api-sample
+git clone https://github.com/ekpo-d/cp-api-javascript-client.git
+cd cp-api-javascript-client
 npm install
 npm run start-dev # with watcher turned on
 ```
