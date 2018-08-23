@@ -59,3 +59,12 @@ typings/
 
 # next.js build output
 .next
+
+# System files, examples and doc folders
+.DS_Store
+*.map
+
+example
+examples
+
+doc/v1
