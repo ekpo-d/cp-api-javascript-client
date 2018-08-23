@@ -14,7 +14,7 @@ npm run start-dev # with watcher turned on
 
 It will generate documentation of all endpoints and start server with [nodemon]() on a port specified in environment config. Default urls will be `http://localhost:8081/v1` for API endpoints and `http://localhost:8081/doc` for documentation.
 
-### [Documentation in markdown](https://github.com/voronianski/express-api-sample/blob/master/DOCUMENTATION.md)
+### [Documentation in markdown](https://github.com/ekpo-d/cp-api-javascript-client/blob/master/DOCUMENTATION.md)
 
 ## What's inside?
 
